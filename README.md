@@ -10,3 +10,9 @@ Belajar kelas Dasar Git dengan Github. (Progres 25%)
 Belajar kelas Dasar Git dengan Github. (Progres 50%)
   * Mengenal Github Dashboard.
   * Notifikasi Github.
+
+**16 Oktober 2021**  
+Belajar kelas Dasar Git dengan Github. (Progres 100%)
+ * Mengenal Repository
+ * File Readme
+ * Command dasar pada git
